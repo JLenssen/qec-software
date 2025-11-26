@@ -2,12 +2,17 @@
 Collection of software libraries focusing on QEC since GitHub lists are unreliable and buggy.
 
 ## Table of Contents
+- [Coherent noise simulators](#coherent-noise-simulators)
 - [Tableau Simulators and Pauli/Clifford Trackers](#tableau-simulators-and-pauliclifford-trackers)
 - [Compilers](#compilers)
 - [Resource Estimation](#resource-estimation)
 - [Design Automation](#design-automation)
 - [Decoders](#decoders)
 - [Misc](#misc)
+
+## Coherent noise simulators
+- **msim** ([repo](https://gitlab.com/dqc/error_correction/msim))  
+  [![Paper](https://img.shields.io/badge/paper-arXiv-b31b1b?style=flat-square)](https://arxiv.org/abs/1809.01193)
 
 ## Tableau Simulators and Pauli/Clifford Trackers
 
